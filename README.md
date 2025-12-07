@@ -44,3 +44,4 @@ A high-performance guitar tuner built with Next.js and Rust (WASM).
 - **Visuals**: CSS Modules + Tailwind CSS v4.
 - **PWA**: Offline-capable with Service Workers and Web Manifest.
 # fast-tuner-web
+# fast-tuner-web
